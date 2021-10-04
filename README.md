@@ -28,7 +28,9 @@
   <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg height='40' weight='40'/>
   <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/git.svg  height='40' weight='40'/>
   <img src=https://github.com/shantanutyagi67/shantanutyagi67/blob/main/matlab.png  height='40' weight='40'/>
-<code><img height='40' weight='40' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+  <img height='40' weight='40' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> 
+  <img src=https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg  height='40' weight='40'/>
+<!--   <img src=https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg  height='40' weight='40'/> -->
 </p>
 
 

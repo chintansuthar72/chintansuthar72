@@ -21,15 +21,15 @@
 <p align="center"> 
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png height='40' weight='40'/>
   <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png  height='40' weight='40'/>
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png height='40' weight='40'/>
+ <!--  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png height='40' weight='40'/>-->
   <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg height='40' weight='40'/>
   <img src=https://cdn.345tool.com/public/logos/css-formatter-logo.png height='40'  weight='40'/> 
   <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg height='40' weight='40'/>
   <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg height='40' weight='40'/>
   <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/git.svg  height='40' weight='40'/>
-  <img src=https://github.com/shantanutyagi67/shantanutyagi67/blob/main/matlab.png  height='40' weight='40'/>
+  <!-- <img src=https://github.com/shantanutyagi67/shantanutyagi67/blob/main/matlab.png  height='40' weight='40'/>-->
   <img height='40' weight='40' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> 
-  <img src=https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg  height='40' weight='40'/>
+  <!-- <img src=https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg  height='40' weight='40'/> -->
 <!--   <img src=https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg  height='40' weight='40'/> -->
 </p>
 

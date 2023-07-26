@@ -3,9 +3,9 @@
   Welcome !! 😄</h1>
 
 
-### 🎓 I'm a B.Tech ICT student at DAIICT.
+### 🎓 I'm a B.Tech ICT student at DAIICT (Final year).
 
-#### A Full stack Developer and an Open Source Contributor. I have worked with Web Framework like ReactJS. Also I have some experience of Data-science.
+<!-- #### A Full stack Developer and an Open Source Contributor. I have worked with Web Framework like ReactJS. Also I have some experience of Data-science. -->
 
 
 ### &#x1f4c8; GitHub Stats
